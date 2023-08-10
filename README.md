@@ -104,10 +104,10 @@ Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) 
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/juniorvilas/nlw-setup.git
+$ git clone https://github.com/AlcivanLucas/Behaviors.git
 
 # Acesse
-$ cd/nlw-setup/mobile
+$ cd/behaviors
 
 # Instale as dependências
 $ npm i
@@ -120,10 +120,10 @@ $ npx expo start
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/juniorvilas/nlw-setup.git
+$ git clone https://github.com/AlcivanLucas/Behaviors.git
 
 # Acesse
-$ cd/nlw-setup/web
+$ cd/Behaviors/web
 
 # Instale as dependências
 $ npm i
@@ -136,10 +136,10 @@ $ npm run dev
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/juniorvilas/nlw-setup.git
+$ git clone https://github.com/AlcivanLucas/Behaviors.git
 
 # Acesse
-$ cd/nlw-setup/server
+$ cd/Behaviors/server
 
 # Instale as dependências
 $ npm i
@@ -152,11 +152,10 @@ $ npm run dev
 
 ## 📡 Material complementar para o projeto ##
 
-- [Wallpapers-NLW-SETUP](https://drive.google.com/drive/folders/1F5ghUWdlaC_1IKFxkNUgGcTGqpqdpR29)
-- [Notion-Trilha-Ignite](https://efficient-sloth-d85.notion.site/Trilha-Ignite-562e3516c7574fb7be75ff01fbb41f54)
+
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Para mais informações acesse [LICENSE](LICENSE.md).
+Este projeto está sob licença MIT. Para mais informações acesse [LICENSE]().
 
 Feito com :heart: por <a href="https://github.com/AlcivanLucas" target="_blank">Alcivan Lucas</a>
 
