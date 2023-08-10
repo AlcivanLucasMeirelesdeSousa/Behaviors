@@ -158,7 +158,7 @@ $ npm run dev
 
 Este projeto está sob licença MIT. Para mais informações acesse [LICENSE](LICENSE.md).
 
-Feito com :heart: por <a href="https://github.com/juniorvilas" target="_blank">Alcivan Lucas</a>
+Feito com :heart: por <a href="https://github.com/AlcivanLucas" target="_blank">Alcivan Lucas</a>
 
 &#xa0;
 
