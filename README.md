@@ -57,6 +57,13 @@ Neste evento vimos como usar tecnologias atuais e poderosas na construção de s
 
 <img src="./.github/NewHabit.png" alt="Imagem da tela Novo Habito" />
 
+## Tela Login Desktop ##
+
+<img src="./.github/Login.png" alt="Imagem da tela de Login" />
+
+## Tela de Cadastro de novo usuário Desktop ##
+
+<img src="./.github/Signup.png" alt="Imagem da tela de Cadastro de novo usuário" />
 
 ## :skateboard: Funcionalidades ##
 
