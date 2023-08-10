@@ -68,6 +68,9 @@ Neste evento vimos como usar tecnologias atuais e poderosas na construção de s
 ## :skateboard: Funcionalidades ##
 
 :heavy_check_mark: Criar um novo Hábito\
+:heavy_check_mark: Iniciar sessão do usuário\
+:heavy_check_mark: Cadastrar novos usuários\
+:heavy_check_mark: Deletar hábitos\
 :heavy_check_mark: Mostrar tela home com hábitos criados e progresso\
 :heavy_check_mark: Marcar hábito como completo ou desmarcalo\
 :heavy_check_mark: Aplicação responsiva
