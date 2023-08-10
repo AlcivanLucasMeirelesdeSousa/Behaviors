@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/Home.png" alt="Behaviors" />
+  <img src="./.github/inicial.png" alt="Behaviors" />
 
   &#xa0;
 
@@ -51,7 +51,7 @@ Neste evento vimos como usar tecnologias atuais e poderosas na construção de s
 
 ### Tela Home Desktop ##
 
-<img src="./.github/Home.png" alt="Imagem da tela Home Desktop" />
+<img src="./.github/inicial.png" alt="Imagem da tela Home Desktop" />
 
 ## Tela Novo Hábito Desktop ##
 
